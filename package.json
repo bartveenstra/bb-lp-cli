@@ -21,7 +21,6 @@
     "url": "http://github.com/backbase/bb-lp-cli"
   },
   "dependencies": {
-    "@backbase/cli-config": "^1.0.0-alpha.0",
     "analyze-css": "^0.10.2",
     "autoprefixer": "^6.3.3",
     "babel-core": "^6.6.0",
@@ -33,7 +32,6 @@
     "bower-webpack-plugin": "^0.1.8",
     "cliparse": "^0.2.5",
     "colors": "^1.0.3",
-    "connect-modrewrite": "^0.8.1",
     "css": "^2.2.1",
     "css-loader": "^0.21.0",
     "deep-merge": "^1.0.0",
@@ -47,7 +45,6 @@
     "file-loader": "^0.8.4",
     "findit": "^2.0.0",
     "fs-extra-promise": "^0.2.0",
-    "git-config": "0.0.7",
     "glob": "^7.0.3",
     "gulp": "^3.8.11",
     "gulp-cached": "^1.1.0",
@@ -78,17 +75,13 @@
     "html-minify-loader": "^1.0.0",
     "inquirer": "^0.8.2",
     "jjv-utils": "^1.0.1",
-    "js-yaml": "^3.4.2",
     "json-loader": "^0.5.2",
     "jxon": "^1.5.4",
     "less": "^2.5.1",
     "less-loader": "^2.2.0",
     "lodash": "^3.5.0",
     "logdown": "^1.1.1",
-    "marked": "^0.3.5",
-    "marked-to-md": "^1.0.1",
     "ng-annotate-webpack-plugin": "git+https://github.com/sorohan/ng-annotate-webpack-plugin.git",
-    "node-yaml-config": "0.0.3",
     "postcss-loader": "^0.8.1",
     "promise": "^6.1.0",
     "route-pattern": "0.0.6",
@@ -100,9 +93,7 @@
     "vinyl-named": "^1.1.0",
     "webpack": "^1.12.2",
     "webpack-core": "~0.6.0",
-    "webpack-stream": "^3.1.0",
-    "xml2js": "^0.4.16",
-    "xml2js-xpath": "^0.5.0"
+    "webpack-stream": "^3.1.0"
   },
   "config": {
     "entry": {
