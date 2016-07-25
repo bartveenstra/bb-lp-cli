@@ -75,13 +75,17 @@
     "html-minify-loader": "^1.0.0",
     "inquirer": "^0.8.2",
     "jjv-utils": "^1.0.1",
+    "js-yaml": "^3.4.2",
     "json-loader": "^0.5.2",
     "jxon": "^1.5.4",
     "less": "^2.5.1",
     "less-loader": "^2.2.0",
     "lodash": "^3.5.0",
     "logdown": "^1.1.1",
+    "marked": "^0.3.5",
+    "marked-to-md": "^1.0.1",
     "ng-annotate-webpack-plugin": "git+https://github.com/sorohan/ng-annotate-webpack-plugin.git",
+    "node-yaml-config": "0.0.3",
     "postcss-loader": "^0.8.1",
     "promise": "^6.1.0",
     "route-pattern": "0.0.6",
@@ -93,7 +97,9 @@
     "vinyl-named": "^1.1.0",
     "webpack": "^1.12.2",
     "webpack-core": "~0.6.0",
-    "webpack-stream": "^3.1.0"
+    "webpack-stream": "^3.1.0",
+    "xml2js": "^0.4.16",
+    "xml2js-xpath": "^0.5.0"
   },
   "config": {
     "entry": {
